@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<download>
+	<hand>
+		<addresses>10</addresses>
+		<xslt>164</xslt>
+		<xsl>63</xsl>
+	</hand>
+	<search>
+		<addresses>1437</addresses>
+		<xslt>795</xslt>
+		<xsl>544</xsl>
+	<search>
+	<seeds>
+		<addresses>1793</addresses>
+		<xslt>2478</xslt>
+		<xsl>7403</xsl>
+	</seeds>
+	<googlecode>
+		<addresses>476</addresses>
+		<xslt>1249</xslt>
+		<xsl>6621</xsl>
+	</googlecode>
+	<nonrecursive>
+		<addresses>391</addresses>
+		<xslt>266</xslt>
+		<xsl>65</xsl>
+	<nonrecursive>
+</download>
